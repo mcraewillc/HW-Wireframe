@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.Header {
+    background-color: #ebebeb;
+    height: 100px;
+    width: 960px;
+    position:relative;
+    left: 130px;
+    text-align: center;
+}
+
+.Nav {
+    background-color: #ebebeb;
+    float: top;
+    height: 100px;
+    width: 960px;
+    position:relative;
+    left: 130px;
+    text-align: center;
+}
+
+.Section {
+    background-color: #ebebeb;
+    width: 495px;
+    float: top;
+    left: 0px;
+    height: 300px;
+    position: relative;
+    text-align: left;
+    line-height: 150%;
+}
+
+.box {
+    background-color: #777;
+    float: top;
+    width: 960px;
+    left: 130px;
+    position: relative;
+    height: 300px;
+
+
+}
+.Section-2 {
+    position: relative;
+    float: top;
+    text-align: center;
+    height: 18px;
+    background-color: #ebebeb;
+}
+
+.Aside {
+    background-color: #ebebeb;
+    width:434px;
+    height: 300px;
+    left: 525px;
+    position: absolute;
+    text-align: center;
+    line-height: 150%;
+    bottom: 0;
+}
+
+.Footer {
+    background-color: #ebebeb;
+    height: 100px;
+    position: relative;
+    float: top;
+    width: 960px;
+    height: 100px;
+    left: 130px;
+    text-align: center;
+}
+.Article {
+    color: #ebebeb;
+    background-color: #777;
+    text-align: center;
+    position: relative;
+    height: 200px;
+    top: 50px;
+    width: 300;
+    margin: 10px;
+    line-height: 250%;
+
+}
+
+p1 {
+    color: #777;
+    background-color: #ebebeb;
+    text-align: center;
+    height: 65px;
+    width: 425px;
+    position: absolute;
+    left: 25px;
+    top: 45px;
+}
+
+p {
+    color: #777;
+    background-color: #ebebeb;
+    text-align: center;
+    height: 65px;
+    width: 425px;
+    position: absolute;
+    left: 25px;
+    top: 100px; 
+
+}
